@@ -1,4 +1,4 @@
-var urlmain = dosument.URL;
+var urlmain = document.URL;
 var mad = document.URL.split("/"[3];
 var key = document.URL.split("/"[4];
 var id = document.URL.split("/"[5];
