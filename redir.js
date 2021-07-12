@@ -9,7 +9,3 @@ if (md== 'deep') {
    var redir = 'https://s.click.aliexpress.com/e/'+key;
 }
 
-setTimeout(
-  function(){
-    window.location = redir
-3000);
